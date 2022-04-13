@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bunihizi_richard
 - 👀 I’m interested in react
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on any employer
+- 💞️ I’m looking to collaborate with any employer
 - 📫 How to reach me bunihizirichard95@gmail.com
 
 <!---
