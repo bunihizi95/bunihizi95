@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bunihizi_richard
+- 👋 Hi, I’m Richard Bunihizi
 - 👀 I’m interested in react
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate with any employer
