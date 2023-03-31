@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Richard Bunihizi
 - 👀 I’m a computer engineer
-- 🌱 more fined in React 
+- 🌱 more fined in android development (JAVA) 
 - 💞️ I’m looking to collaborate with any employer
 - 📫 How to reach me bunihizirichard95@gmail.com
 
