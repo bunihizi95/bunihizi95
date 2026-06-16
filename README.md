@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Richard Bunihizi
 - 👀 I’m a computer engineer
-- 🌱 more fined in android development (JAVA) 
+- 🌱 more fined in web developmen with laravel, vue and postgresql 
 - 💞️ I’m looking to collaborate with any employer
 - 📫 How to reach me bunihizirichard95@gmail.com
 
